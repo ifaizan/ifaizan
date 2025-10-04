@@ -6,11 +6,11 @@ Working with agentic AI applications to build high-quality infrastructure guided
 
 ## 🛠️ Preferred Technologies
 
-- **Languages**: Python, GoLang, HCL
+- **Languages**: Python, Bash, HCL
 - **Cloud**: Azure, AWS
-- **Container Platforms**: Kubernetes, ECS (Fargate), Container Apps, Docker, Podman
+- **Container Platforms**: Kubernetes, Azure Container Apps, ECS (Fargate), Docker, Podman
 - **IaC**: Crossplane, Terraform, CDKTF
-- **GitOps**: ArgoCD
+- **GitOps**: ArgoCD, Weave GitOps
 - **Automation**: Github Actions, Azure DevOps, Ansible, Bash
 - **Tooling**: MacBook Pro, Claude, ChatGPT, Cursor
 
