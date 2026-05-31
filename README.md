@@ -1,6 +1,6 @@
 # 👋 About Me
 
-DevOps & Cloud professional with over 6 years of experience delivering scalable, fault-tolerant, enterprise-grade cloud infrastructure
+DevOps & Cloud professional with over 7+ years of experience delivering scalable, fault-tolerant, enterprise-grade cloud infrastructure
 
 Working with agentic AI applications to build high-quality infrastructure guided by natural language
 
